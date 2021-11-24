@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xfc3ad4116EEcaE71253529C8b690685b1560AE74",
+  "SCAN_LINK": "https://polygonscan.com/token/0xfc3ad4116eecae71253529c8b690685b1560ae74",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Boodles Club",
+  "SYMBOL": "Boodle",
+  "MAX_SUPPLY": 10001,
+  "WEI_COST": 22000000000000000000,
+  "DISPLAY_COST": 22,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/boodles-club",
+  "SHOW_BACKGROUND": true
+}
