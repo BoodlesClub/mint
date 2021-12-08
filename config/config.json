@@ -8,7 +8,7 @@
   },
   "NFT_NAME": "Boodles Club",
   "SYMBOL": "Boodle",
-  "MAX_SUPPLY": 5556,
+  "MAX_SUPPLY": 5555,
   "WEI_COST": 22000000000000000000,
   "DISPLAY_COST": 22,
   "GAS_LIMIT": 285000,
