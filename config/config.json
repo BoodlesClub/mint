@@ -10,7 +10,7 @@
   "SYMBOL": "Boodle",
   "MAX_SUPPLY": 5555,
   "WEI_COST": 0,
-  "DISPLAY_COST": 0,
+  "DISPLAY_COST": FREE,
   "GAS_LIMIT": 385000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/boodles-club",
